@@ -1,4 +1,4 @@
-<a href="https://google.com"><img width="100%" src="./assets/gh_profilebanner.png" /></a></p>
+<a href="https://github.com/garantae"><img width="100%" src="./assets/gh_profilebanner.png" /></a></p>
 
 
 ### Hi there 👋
