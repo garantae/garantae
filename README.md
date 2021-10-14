@@ -3,9 +3,7 @@
 
 
 ### ABOUT ME
-
-
-I am a passionate programmer who also love video games. My dream is to be able to work on one in the future.
+I am a passionate programmer whose dream is to work on a video game. I love creating projects for fun and am looking forward to creating more complex works as well as increase my knowledge.
 
 <br>
 <br>
