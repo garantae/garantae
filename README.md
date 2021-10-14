@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://google.com"><img width="100%" src="./assets/Btest3.png" /></a></p>
+<a href="https://google.com"><img width="100%" src="./assets/gh_profilebanner.png" /></a></p>
 
 <!--
 COMMENTED OUT
