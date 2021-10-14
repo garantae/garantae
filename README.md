@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+COMMENTED OUT
 **Garantae/garantae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center"><a href="https://google.com"><img width="80%" src="./assets/FileNameHere.png" /></a></p>
+
 -->
