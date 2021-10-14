@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img width="100%" src="./assets/test65.png" /></a></p>
+<img width="100%" src="./assets/gh_bottombanner.png" /></a></p>
 
 <!--
 COMMENTED OUT
