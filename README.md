@@ -5,6 +5,9 @@
 ### ABOUT ME
 I am a passionate programmer whose dream is to work on a video game. I love creating projects for fun and am looking forward to creating more complex works as well as increase my knowledge.
 
+### PORTFOLIO
+Some of my completed projects will be pinned on my profile. Other projects, either completed or in-progress, will be under my repositories tab.
+
 <br>
 <br>
 <br>
