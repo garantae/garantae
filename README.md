@@ -24,7 +24,7 @@ Some of my completed projects will be pinned on my profile. Other projects, eith
 <br>
 
   <p align="center">
-  <a href="https://twitter.com/austinize"><img width="5%" src="./assets/twittericon.png" /></a><a href="https://github.com/garantae"><img width="5%" src="./assets/linkedinicon.png" /></a>
+  <a href="https://twitter.com/"><img width="5%" src="./assets/twittericon.png" /></a><a href="https://github.com/garantae"><img width="5%" src="./assets/linkedinicon.png" /></a>
 
 <img width="100%" src="./assets/gh_bottom.png" /></a></p>
 
