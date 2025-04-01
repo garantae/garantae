@@ -1,3 +1,4 @@
+<!--
 <a href="https://github.com/garantae"><img width="100%" src="./assets/gh_banner.png" /></a></p>
 
 
@@ -25,3 +26,4 @@ this needs a revamp
 
 <img width="100%" src="./assets/gh_bottom.png" /></a></p>
 
+-->
